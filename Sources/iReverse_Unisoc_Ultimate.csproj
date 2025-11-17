@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A9B9D283-99F6-4D1A-A7A2-71290A479FC6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iReverse_Unisoc_Ultimate</RootNamespace>
+    <AssemblyName>iReverse Unisoc Ultimate Download Tool</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineConstants>TRACE;DEBUG;WindowsForms;WindowsForms</DefineConstants>
+    <OutputPath>bin\Debug\</OutputPath>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineConstants>TRACE;WindowsForms;WindowsForms</DefineConstants>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+  </PropertyGroup>
+  <PropertyGroup>
+  </PropertyGroup>
+  <PropertyGroup>
+  </PropertyGroup>
+  <PropertyGroup>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineConstants>TRACE;DEBUG;WindowsForms;WindowsForms</DefineConstants>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineConstants>TRACE;WindowsForms;WindowsForms</DefineConstants>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineConstants>TRACE;DEBUG;WindowsForms;WindowsForms</DefineConstants>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineConstants>TRACE;WindowsForms;WindowsForms</DefineConstants>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <WarningLevel>1</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconireverse.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alerts.Designer.cs">
+      <DependentUpon>Alerts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alerts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boot\boot.cs" />
+    <Compile Include="Boot\cpio.cs" />
+    <Compile Include="Boot\lz4.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyUI\CustomTabControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyUI\iReverseButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyUI\iReverseListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyUI\iReverseProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyUI\iReverseRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyUI\iReverseToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyUI\MyComputer.cs" />
+    <Compile Include="MyUI\MyDisplay.cs" />
+    <Compile Include="MyUI\MyListSpdDevice.cs" />
+    <Compile Include="MyUI\MyProgress.cs" />
+    <Compile Include="MyUI\NativeMethods.cs" />
+    <Compile Include="MyUI\TabStyle.cs" />
+    <Compile Include="MyUI\TabStyleProvider.cs" />
+    <Compile Include="MyUI\TabStyleProviders\TabStyleDarkProvider.cs" />
+    <Compile Include="MyUI\TabStyleProviders\TabStyleDefaultProvider.cs" />
+    <Compile Include="MyUI\TabStyleProviders\TabStyleiReverseProvider.cs" />
+    <Compile Include="MyUI\TabStyleProviders\TabStyleNoneProvider.cs" />
+    <Compile Include="MyUI\ThemeEngine.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UniFlash\Utility\Connection\API\PhoneCommandAPI.cs" />
+    <Compile Include="UniFlash\Utility\Connection\DiagChannel.cs" />
+    <Compile Include="UniFlash\Utility\Connection\PortIO.cs" />
+    <Compile Include="UniFlash\Utility\Connection\USBFastConnect.cs" />
+    <Compile Include="UniFlash\Worker\WorkerGlobal.cs" />
+    <Compile Include="UniFlash\Worker\WorkerDiagChannel.cs" />
+    <Compile Include="UniFlash\Worker\WorkerUnlock.cs" />
+    <Compile Include="UniFlash\Worker\WorkerDownload.cs" />
+    <Compile Include="UniFlash\PACExtractor.cs" />
+    <Compile Include="UniFlash\uni.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Alerts.resx">
+      <DependentUpon>Alerts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Channel9.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exploit_4ee8.bin" />
+    <None Include="Resources\exploit_65015f08.bin" />
+    <None Include="Resources\exploit_65015f48.bin" />
+    <None Include="Resources\msvcp140d.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ucrtbased.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uni.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vcruntime140d.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C4.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cancel_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="iconireverse.ico" />
+    <None Include="Resources\logoireverse.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

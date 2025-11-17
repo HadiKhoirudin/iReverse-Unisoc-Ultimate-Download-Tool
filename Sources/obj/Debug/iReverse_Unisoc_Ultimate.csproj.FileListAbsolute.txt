@@ -1,0 +1,14 @@
+E:\github\unisoc_download\Sources\bin\Debug\iReverse Unisoc Ultimate Download Tool.exe.config
+E:\github\unisoc_download\Sources\bin\Debug\iReverse Unisoc Ultimate Download Tool.exe
+E:\github\unisoc_download\Sources\bin\Debug\iReverse Unisoc Ultimate Download Tool.pdb
+E:\github\unisoc_download\Sources\bin\Debug\Newtonsoft.Json.dll
+E:\github\unisoc_download\Sources\bin\Debug\Newtonsoft.Json.xml
+E:\github\unisoc_download\Sources\obj\Debug\iReverse_Unisoc_Ultimate.csproj.AssemblyReference.cache
+E:\github\unisoc_download\Sources\obj\Debug\iReverse_Unisoc_Ultimate.iReverseCustomUI.Alerts.resources
+E:\github\unisoc_download\Sources\obj\Debug\iReverse_Unisoc_Ultimate.Main.resources
+E:\github\unisoc_download\Sources\obj\Debug\iReverse_Unisoc_Ultimate.Properties.Resources.resources
+E:\github\unisoc_download\Sources\obj\Debug\iReverse_Unisoc_Ultimate.csproj.GenerateResource.cache
+E:\github\unisoc_download\Sources\obj\Debug\iReverse_Unisoc_Ultimate.csproj.CoreCompileInputs.cache
+E:\github\unisoc_download\Sources\obj\Debug\iReverse_Unisoc_Ultimate.csproj.CopyComplete
+E:\github\unisoc_download\Sources\obj\Debug\iReverse Unisoc Ultimate Download Tool.exe
+E:\github\unisoc_download\Sources\obj\Debug\iReverse Unisoc Ultimate Download Tool.pdb

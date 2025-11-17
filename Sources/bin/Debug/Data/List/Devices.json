@@ -1,0 +1,434 @@
+[
+   {
+      "Devices": "Andromax Prime",
+      "Models": "F17A1H",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Gionee F10",
+      "Models": "F10",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Gionee MAX",
+      "Models": "MAX",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Infinix Hot 10i",
+      "Models": "PR652B",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Infinix Hot 30i",
+      "Models": "X669C",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Infinix Hot 40i",
+      "Models": "X6528B",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Infinix Hot 12 Play",
+      "Models": "X6816C",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Infinix Smart 6 - A",
+      "Models": "X6511",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Infinix Smart 6 - B",
+      "Models": "X6511B",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A17",
+      "Models": "W5006X",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel A23",
+      "Models": "A23",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A23 Pro",
+      "Models": "L5006C",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A25",
+      "Models": "L5002",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A25 Pro",
+      "Models": "L5002P",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A26",
+      "Models": "A571L",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A27",
+      "Models": "A551L",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A33 Plus",
+      "Models": "A509W",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel A33",
+      "Models": "W5001P",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel A46",
+      "Models": "L5503",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A48",
+      "Models": "L6006",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A49",
+      "Models": "A661L",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel A55",
+      "Models": "W6003",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel A56 Pro",
+      "Models": "W6004P",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel A56",
+      "Models": "W6004",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel A57",
+      "Models": "A611W",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel A57",
+      "Models": "A611WP",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "iTel Vision 1",
+      "Models": "L6005",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel Vision 1 Plus",
+      "Models": "L6501",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel Vision 1 Pro",
+      "Models": "L6502",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel Vision 2",
+      "Models": "L6503",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel Vision 2S",
+      "Models": "P651L",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "iTel Vision 3 Plus",
+      "Models": "P682LP",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme C11",
+      "Models": "RMX3231",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme C21Y",
+      "Models": "RMX3261",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Realme C21Y",
+      "Models": "RMX3263",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Realme C25Y",
+      "Models": "RMX3265",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Realme C25Y",
+      "Models": "RMX3269",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Realme C30",
+      "Models": "RMX3581",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme C31",
+      "Models": "RMX3501",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme C33",
+      "Models": "RMX3624",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme C35",
+      "Models": "RMX3511",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme Narzo 50A Prime",
+      "Models": "RMX3516",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme C53",
+      "Models": "RMX3760",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Realme C53",
+      "Models": "RMX3762",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Techno Pop 4",
+      "Models": "BC2C",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Techno Pop 5",
+      "Models": "BD2",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Techno Pop 5",
+      "Models": "BD2P",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "",
+      "New": ""
+   },
+   {
+      "Devices": "Techno Pop 5 Go",
+      "Models": "BD1",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Techno Pop 5 Lte",
+      "Models": "BD4",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Techno Pova Neo",
+      "Models": "LE6H",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Techno Spark 7",
+      "Models": "PR651",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Techno Spark 7",
+      "Models": "PR651E",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Techno Spark 7",
+      "Models": "PR651H",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   },
+   {
+      "Devices": "Techno Spark 8C",
+      "Models": "KG5K",
+      "Platform": "Unisoc",
+      "Conn": "Download",
+      "Auth": "Exploit",
+      "New": "New Security"
+   }
+]
