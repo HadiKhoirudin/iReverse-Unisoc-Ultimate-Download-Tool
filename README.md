@@ -11,4 +11,4 @@ Runtime Info
 
 ![Screenshot 3](https://i.postimg.cc/DwQK7nZj/Screenshot-2025-11-18-054156.png)
 
-![Screenshot 4](https://i.postimg.cc/65JvPfGb/Screenshot-2025-11-18-055846.png)
+![Screenshot 4](https://i.postimg.cc/G2B1vYLy/Screenshot-2025-11-18-061550.png)
